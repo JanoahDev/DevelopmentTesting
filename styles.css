@@ -1,0 +1,13 @@
+body {
+        background-color: beige;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        text-align: center;
+}
+
+
+.bold {
+        font-weight: bold;
+}
