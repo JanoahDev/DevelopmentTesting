@@ -1,8 +1,5 @@
 body {
         background-color: beige;
-        display: flex;
-        justify-content: center;
-        align-items: center;
         height: 100vh;
         text-align: center;
 }
@@ -10,4 +7,23 @@ body {
 
 .bold {
         font-weight: bold;
+}
+
+.header {
+        margin: 2rem;
+}
+
+.project-container {
+        padding: 1rem;
+        background-color: white;
+        border-radius: 1rem;
+        margin-bottom: 2rem;
+}
+
+img {
+        width: 100%;
+}
+
+figure {
+        width: 10rem;
 }
